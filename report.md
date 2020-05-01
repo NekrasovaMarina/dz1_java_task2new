@@ -21,6 +21,10 @@
 
 В качестве тестовых данных использовались данные:
 * данные: https://www.freeformatter.com/credit-card-number-generator-validator.html
+*  класс эквивалентности 1: карты VIZA, Discover и JCB с валидным номером из 19 знаков
+*  класс эквивалентности 2: карты Diners Club - Carte Blanche и Diners Club - International с валидным номером из 14 знаков
+*  класс эквивалентности 3: карты American Express (AMEX) с валидным номером из 15 знаков
+*  класс эквивалентности 4: карты VIZA, Discover, Visa Electron, MasterCard, JCB, InstaPayment, Diners Club - North America, Maestro с валидным номером из 16 знаков
 * ожидаемый результат: 
  ОК
 
